@@ -1,0 +1,21 @@
+#enviar{
+    text-align: right;
+}
+
+.form-center{
+   max-width: 500px;
+   margin: 0 auto;
+   padding: 10px;
+   margin-top: 0px;
+}
+label{
+    text-align: left;
+}
+
+.form-horizontal .form-group {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+h1.formulario{
+    text-align: center;
+}
